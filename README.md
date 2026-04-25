@@ -50,15 +50,16 @@ The goal is to identify **actionable insights** to improve customer satisfaction
 - Improve weekday staffing and optimize delivery routing to reduce delays.
 - Introduce **premium subscription tiers** and targeted marketing campaigns.
 
-**🗂 Repository Structure**
-
+**🗂 Project Structure**
+```plaintext
 foodhub-data-analysis-eda/
 │
 ├── data/                 # (Optional) Sample or synthetic dataset
-├── notebooks/            # Jupyter/Colab notebooks for EDA
+├── notebooks/            # Colab notebook for EDA
 ├── visuals/              # Plots, charts, and figures used in the report
 ├── report/               # PDF or markdown version of the full analysis
 └── README.md             # Project documentation
+```
 
 **🛠 Tools & Technologies**
 - **Python** (pandas, NumPy, matplotlib, seaborn)
