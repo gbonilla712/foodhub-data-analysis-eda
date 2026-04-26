@@ -54,11 +54,11 @@ The goal is to identify **actionable insights** to improve customer satisfaction
 ```plaintext
 foodhub-data-analysis-eda/
 │
-├── data/                 # (Optional) Sample or synthetic dataset
-├── notebooks/            # Colab notebook for EDA
-├── visuals/              # Plots, charts, and figures used in the report
-├── report/               # PDF or markdown version of the full analysis
-└── README.md             # Project documentation
+├── FoodHub Methodology and Workflow.pdf     # Detailed methodology + workflow document
+├── GBonilla Low Code FoodHub Project Report.pdf     # Full project report
+├── GBonilla_FoodHub_Project_LowCode_Solution.pdf   # Solution deliverable
+│
+└── README.md                                # Project overview and documentation
 ```
 
 **🛠 Tools & Technologies**
@@ -75,3 +75,4 @@ The full FoodHub analysis report includes:
 - Univariate & Multivariate EDA
 - Actionable Insights
 - Recommendations
+- Appendix (List of Code Snippets)
