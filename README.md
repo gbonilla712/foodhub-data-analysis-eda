@@ -71,11 +71,12 @@ foodhub-data-analysis-eda/
 
 The full FoodHub analysis report includes:
 - Executive Summary
-- Business Problem & Solution Approach
+- Business Problem and Solution Approach
 - Data Overview
-- Univariate & Multivariate EDA
-- Actionable Insights
-- Requested Business Application Research Plans
-- Conclusions
-- Recommendations
-- Appendix (List of Code Snippets)
+- Exploratory Data Analysis (Univariate & Bivariate)
+  - Univariate Analysis
+  - Univariate Analysis - Business Application Insights
+  - Bivariate Analysis
+  - Bivariate Analysis - Business Application Insights
+- Conclusions and Recommendations
+- Appendix (Code Snippets)
