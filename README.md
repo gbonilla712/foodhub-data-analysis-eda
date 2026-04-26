@@ -75,5 +75,7 @@ The full FoodHub analysis report includes:
 - Data Overview
 - Univariate & Multivariate EDA
 - Actionable Insights
+- Requested Business Application Research Plans
+- Conclusions
 - Recommendations
 - Appendix (List of Code Snippets)
