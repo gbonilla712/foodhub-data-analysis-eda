@@ -2,7 +2,7 @@
 
 This repository contains a full exploratory data analysis (EDA) and business insights report for the **FoodHub Low‑Code Project**, completed as part of the **MIT Applied AI & Data Science Program**. The project analyzes customer behavior, restaurant performance, operational efficiency, and revenue patterns using a dataset of **1,898 food delivery orders** from New York City.
 
-**📁 Project Overview**
+## 📁 Project Overview
 
 FoodHub is a food‑delivery aggregator operating in a high‑demand, high‑density market. This analysis investigates:
 
@@ -14,7 +14,7 @@ FoodHub is a food‑delivery aggregator operating in a high‑demand, high‑den
 
 The goal is to identify **actionable insights** to improve customer satisfaction, operational efficiency, and revenue.
 
-**🔍 Key Objectives**
+## 🔍 Key Objectives
 
 - Perform structured **univariate and multivariate EDA**
 - Identify **top‑performing restaurants** and cuisine trends
@@ -22,7 +22,7 @@ The goal is to identify **actionable insights** to improve customer satisfaction
 - Examine **weekday vs. weekend demand**
 - Provide **data‑driven recommendations** for FoodHub’s business strategy
 
-**📈 Highlights & Findings**
+## 📈 Highlights & Findings
 
 **Customer & Order Behavior**
 - Weekend orders dominate the dataset, nearly **2× higher** than weekday orders.
@@ -43,14 +43,14 @@ The goal is to identify **actionable insights** to improve customer satisfaction
 - A small group of restaurants (e.g., Shake Shack, The Meatball Shop) generates a disproportionate share of revenue.
 - Most orders do not exceed **$20**, indicating opportunities for upselling and bundling.
 
-**🧠 Recommendations**
+## 🧠 Recommendations
 - Launch **loyalty programs** and **upsell bundles** to increase average order value.
 - Promote top‑performing restaurants and high‑demand cuisines, especially on weekends.
 - Implement **in‑app rating prompts** to reduce “Not given” ratings.
 - Improve weekday staffing and optimize delivery routing to reduce delays.
 - Introduce **premium subscription tiers** and targeted marketing campaigns.
 
-**🗂 Project Structure**
+## 🗂 Project Structure
 ```plaintext
 foodhub-data-analysis-eda/
 │
@@ -61,13 +61,13 @@ foodhub-data-analysis-eda/
 └── README.md                                # Project overview and documentation
 ```
 
-**🛠 Tools & Technologies**
+## 🛠 Tools & Technologies
 - **Python** (pandas, NumPy, matplotlib, seaborn)
 - **Google Colab**
 - **Statistical analysis & visualization techniques**
 - **Low‑code analytical workflows**
 
-**📄 Project Report**
+## 📄 Project Report
 
 The full project report (`GBonilla Low Code FoodHub Project Report.pdf`) covers the following sections:
 - Executive Summary
