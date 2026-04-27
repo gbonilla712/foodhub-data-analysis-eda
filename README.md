@@ -68,15 +68,14 @@ foodhub-data-analysis-eda/
 - **Low‑code analytical workflows**
 
 ## 📄 Project Report
-
-The full project report (`GBonilla Low Code FoodHub Project Report.pdf`) covers the following sections:
-- Executive Summary
-- Business Problem and Solution Approach
-- Data Overview
-- Exploratory Data Analysis (Univariate & Bivariate)
+The full project report (`GBonilla Low Code FoodHub Project Report.pdf`) includes:
+- **Executive Summary**
+- **Business Problem and Solution Approach**
+- **Data Overview**
+- **Exploratory Data Analysis (Univariate & Bivariate)**
   - Univariate Analysis
   - Univariate Analysis - Business Application Insights
   - Bivariate Analysis
   - Bivariate Analysis - Business Application Insights
-- Conclusions and Recommendations
-- Appendix (Code Snippets)
+- **Conclusions and Recommendations**
+- **Appendix** (Code Snippets)
