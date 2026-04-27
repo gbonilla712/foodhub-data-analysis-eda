@@ -68,7 +68,7 @@ foodhub-data-analysis/
 - **Low‑code analytical workflows**
 
 ## 📄 Project Report
-The full project report (`GBonilla Low Code FoodHub Project Report.pdf`) includes:
+The full project report (`GBonilla FoodHub Project Low Code Report.pdf`) includes:
 - **Executive Summary**
 - **Business Problem and Solution Approach**
 - **Data Overview**
