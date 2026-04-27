@@ -54,7 +54,7 @@ The goal is to identify **actionable insights** to improve customer satisfaction
 ```plaintext
 foodhub-data-analysis/
 │
-├── GBonilla FoodHub Project Methodology and Workflow.pdf     # Detailed methodology + workflow document
+├── GBonilla FoodHub Project Low Code Methodology and Workflow.pdf     # Detailed methodology + workflow document
 ├── GBonilla FoodHub Project Low Code Report.pdf     # Full project report
 ├── GBonilla_FoodHub_Project_Low_Code.ipynb   # Solution deliverable
 │
