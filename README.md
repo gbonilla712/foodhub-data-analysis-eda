@@ -1,4 +1,4 @@
-# foodhub-data-analysis-eda
+# foodhub-data-analysis
 
 This repository contains a full exploratory data analysis (EDA) and business insights report for the **FoodHub Low‑Code Project**, completed as part of the **MIT Applied AI & Data Science Program**. The project analyzes customer behavior, restaurant performance, operational efficiency, and revenue patterns using a dataset of **1,898 food delivery orders** from New York City.
 
@@ -52,7 +52,7 @@ The goal is to identify **actionable insights** to improve customer satisfaction
 
 ## 🗂 Project Structure
 ```plaintext
-foodhub-data-analysis-eda/
+foodhub-data-analysis/
 │
 ├── FoodHub Methodology and Workflow.pdf     # Detailed methodology + workflow document
 ├── GBonilla Low Code FoodHub Project Report.pdf     # Full project report
