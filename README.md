@@ -69,7 +69,7 @@ foodhub-data-analysis-eda/
 
 **📄 Project Report**
 
-The full FoodHub analysis report includes:
+The full project report (`GBonilla Low Code FoodHub Project Report.pdf`) covers the following sections:
 - Executive Summary
 - Business Problem and Solution Approach
 - Data Overview
