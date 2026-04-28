@@ -54,8 +54,8 @@ The goal is to identify **actionable insights** to improve customer satisfaction
 ```plaintext
 foodhub-order-analysis/
 │
-├── GBonilla FoodHub Order Analysis Low Code Methodology and Workflow.pdf     # Detailed methodology + workflow document
-├── GBonilla FoodHub Order Analysis Low Code Report.pdf     # Full project report
+├── GBonilla_FoodHub_Order_Analysis_Low_Code_Methodology_and_Workflow.pdf     # Detailed methodology + workflow document
+├── GBonilla_FoodHub_Order_Analysis_Low_Code_Report.pdf     # Full project report
 ├── GBonilla_FoodHub_Order_Analysis_Low_Code.ipynb   # Solution deliverable
 │
 └── README.md                                # Project overview and documentation
